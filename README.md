@@ -3,7 +3,7 @@
 # iOS Load Data from Property List App
 Load Data from Property List App is written in Swift language for iOS.
 
-![iOS Load Data from Property List](https://user-images.githubusercontent.com/45048950/72957809-ee1b7680-3ddf-11ea-96cf-d75ff92685a3.png)
+![Screenshot 2020-02-13 at 10 35 58 PM](https://user-images.githubusercontent.com/45048950/74445463-65a96680-4eb1-11ea-8e73-34f6a3b80c1b.png)
 
 ### Built With :
 
